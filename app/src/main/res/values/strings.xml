@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">2018 Hack Kstate</string>
+    <string name="observatory1">Stage 1 of the Observatory</string>
+    <string name="observatory2">Stage 2 of the Observatory</string>
+    <string name="observatory3">Stage 3 of the Observatory</string>
+    <string name="business1">Stage 1 of the Business Building</string>
+    <string name="museum1">Stage 1 of the Museum Building</string>
+    <string name="school1">Stage 1 of the School Building</string>
+    <string name="stadium1">Stage 1 of the Stadium Building</string>
 </resources>
